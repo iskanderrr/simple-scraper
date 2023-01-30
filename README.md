@@ -1,14 +1,15 @@
 # simple-scraper  
-a simple web scraper that get products details from a website  
+a very simple web scraper that get products details from a website  
 ## output  
-#### the output is an excel  file containing
+#### the output is an excel file containing:
 - id  
 - Name  
 - brand  
 - price  
 - description  
-
+![Image](/screenshots/excel.png)
 #### Images
 images are saved as **{product id}.jpg**
-![Image](/screenshots/excel.png)
+![Image](/screenshots/images.png)
+
 
