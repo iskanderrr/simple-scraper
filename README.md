@@ -9,7 +9,7 @@ a very simple web scraper that get products details from a website
 - description  
 ![Image](/screenshots/excel.png)
 #### Images
-images are saved as **{product id}.jpg**
+images are saved as **{product id}.jpg**  
 ![Image](/screenshots/images.png)
 
 
