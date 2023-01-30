@@ -1,6 +1,7 @@
 # simple-scraper
 
 a simple web scraper that get products details from a website
+
 ##output
 
 ####excel
