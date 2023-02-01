@@ -10,6 +10,6 @@ a very simple web scraper that get products details from a website
 ![Image](/screenshots/excel.png)
 #### Images
 images are saved as **{product id}.jpg**  
-![Image](/screenshots/images.png)
+![Image](/image_2023-02-01_232544745.png)
 
 
